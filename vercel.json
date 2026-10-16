@@ -1,0 +1,17 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/ELORAH 26 Invitation.html",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/ELORAH%2026%20Invitation.html",
+      "destination": "/index.html"
+    }
+  ]
+}
